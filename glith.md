@@ -1,5 +1,44 @@
 # Glith
 
+# GITHYANKI WOJOWNIK
+
+Średni humanoid (gith), praworządny zły  
+
+**Klasa Pancerza** 17 (półpłytowa zbroja)  
+**Punkty Wytrzymałości** 49 (9k8 + 9)  
+**Szybkość** 9 m  
+
+---
+
+**SIŁA** | **ZRĘC** | **KON** | **INT** | **MĄD** | **CHR**  
+:--:|:--:|:--:|:--:|:--:|:--:  
+15 (+2) | 14 (+2) | 12 (+1) | 13 (+1) | 13 (+1) | 10 (+0)  
+
+---
+
+**Rzuty obronne** KON +3, INT +3, MĄD +3  
+**Zmysły** bierna Percepcja 11  
+**Języki** Gith  
+**Stopień Wyzwania** 3 (700 PD)  
+
+---
+
+### Wrodzone czary (Psionika)
+Zdolnością rzucania czarów githyanki jest **Inteligencja**. Rzuca on czary wrodzone bez potrzeby używania komponentów:
+
+**Do woli:** *mage hand* (ręka jest niewidzialna)  
+**3/dzień każdy:** *jump*, *misty step*, *nondetection* (tylko na siebie)  
+
+---
+
+### AKCJE
+
+**Atak Wielokrotny.** Githyanki wykonuje dwa ataki wielkim mieczem.  
+
+**Wielki Miecz.** Atak bronią do walki wręcz: +4 do trafienia, zasięg 1,5 m, jeden cel.  
+*Trafienie:* 9 (2k6 + 2) obrażeń ciętych oraz 7 (2k6) obrażeń psychicznych.  
+
+
 
 
 # Opis rasy
@@ -57,5 +96,5 @@ Choć rzadko opuszczają swój plan, czasem inne rasy szukają ich klasztorów, 
 Pomimo swej wewnętrznej harmonii, githzerai nigdy nie zapomnieli o niewoli pod jarzmem illithidów. Dla uczczenia pamięci o wyzwoleniu organizują **rrakkmę** — wyprawy łowieckie przeciwko pożeraczom umysłów na innych planach, które kończą się dopiero, gdy zabiją tylu illithidów, ilu jest członków wyprawy.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ5OTk4ODAwXX0=
+eyJoaXN0b3J5IjpbMTMxNjc1NTQzNF19
 -->
