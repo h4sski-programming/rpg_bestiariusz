@@ -1,6 +1,7 @@
 
 
 
+
 # Opis rasy
 
 
@@ -40,11 +41,11 @@ Ciało żelaznego golema hartowane jest w rzadkich miksturach i stopach metali. 
 
 ---
 
-# GOLEM KAMIENNY
+## GOLEM KAMIENNY
 
 Kamienne golemy występują w wielu kształtach i formach, wyrzeźbione z kamienia, by przypominały potężne, majestatyczne posągi. Choć większość z nich ma humanoidalne rysy, mogą przybierać dowolny kształt, jaki zdoła wymyślić rzeźbiarz. Starożytne kamienne golemy, odnajdywane w zapieczętowanych grobowcach lub strzegące bram zaginionych miast, często przedstawiają gigantyczne bestie.  
 Podobnie jak inne golemy, kamienne golemy są niemal całkowicie odporne na czary i zwykłą broń. Istoty walczące z kamiennym golemem mogą wyczuć, że przepływ czasu wokół nich spowalnia, jakby same stawały się kamienne.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njc0MzMzNjFdfQ==
+eyJoaXN0b3J5IjpbLTE1MzA1OTA5MjJdfQ==
 -->
