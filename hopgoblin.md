@@ -26,7 +26,7 @@ Poziom Wyzwania | 1/2 (100 PD)
 
 ----
 
-# HOBGOBLIN KAPITAN
+# Hobgoblin Kapitan
 
 Klasa Pancerza | 17 (półpłytowa zbroja)  
 ---|---
@@ -91,5 +91,5 @@ Hobgobliny umacniają własne siedziby, wzmacniając istniejące fortyfikacje w�
 **Legion Maglubijeta** Hobgobliny czczą Maglubijeta Potężnego — najwyższego boga goblinowatych. Choć ta istota budzi przerażenie, hobgobliny nie boją się śmierci, wierząc, że gdy zginą w walce, ich dusze dołączą do zaszczytnych szeregów armii Maglubijeta na planie Acheronu.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDAxODM0NzddfQ==
+eyJoaXN0b3J5IjpbNTk5ODUxMzM5XX0=
 -->
