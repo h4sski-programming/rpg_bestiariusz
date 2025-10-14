@@ -1,5 +1,33 @@
 # Gnoll
 
+# GNOLL
+
+Średni humanoid (gnoll), chaotycznie zły  
+
+Klasa Pancerza | 15 (zbroja ze skóry, tarcza)  
+---|---
+Punkty Wytrzymałości | 22 (5k8)  
+Szybkość | 9 m  
+
+----
+
+SIŁA | ZRCZ | BWT | INT | MĄD | CHR  
+---|---|---|---|---|---
+14 (+2) | 12 (+1) | 11 (+0) | 6 (-2) | 10 (+0) | 7 (-2)  
+
+----
+
+Zmysły | widzenie w ciemnościach 18 m, bierna Percepcja 10  
+Języki | Gnoll  
+Poziom Wyzwania | 1/2 (100 PD)  
+
+
+**Szał.** Gdy gnoll redukuje istotę do 0 punktów życia atakiem w walce wręcz w swojej turze, może wykonać dodatkową akcję, poruszając się do połowy swojej prędkości i wykonując atak gryzieniem.  
+
+### Akcje
+**Ugryzienie.** Atak bronią do walki wręcz: +4 do trafienia, zasięg 1,5 m, jedna istota. Trafienie: 4 (1k4 + 2) obrażeń kłutych.  
+**Włócznia.** Atak bronią do walki wręcz lub dystansową: +4 do trafienia, zasięg 1,5 m lub 6/18 m, jeden cel. Trafienie: 5 (1k6 + 2) obrażeń kłutych lub 6 (1k8 + 2) obrażeń kłutych przy ataku oburącz w walce wręcz.  
+**Długi Łuk.** Atak dystansowy: +3 do trafienia, zasięg 45/180 m, jeden cel. Trafienie: 5 (1k8 + 1) obrażeń kłutych.  
 
 
 # Opis rasy
@@ -26,5 +54,5 @@ Alfa stada gnolli to wódz stada, który rządzi siłą i sprytem. Wódz zdobywa
 Gnolle celebrują swoje zwycięstwa poprzez rytuały demoniczne i składanie ofiar krwi Yeenoghu. Czasami demon nagradza swoich wyznawców, pozwalając jednemu z nich zostać opętanym przez duchowego demona. Wybraniec, oznaczony jako ulubieniec Yeenoghu, staje się Kłem Yeenoghu — wybrańcem Władcy Gnolli. Podobnie jak Yeenoghu stworzył pierwsze gnolle, hiena, która pożera zabitego przez Kła przeciwnika, przechodzi przerażającą przemianę w dorosłego gnolla. W zależności od liczby hien w regionie, Kieł Yeenoghu może spowodować gwałtowny wzrost populacji gnolli. Jedynym sposobem na kontrolę populacji jest znalezienie i zabicie Kła.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0ODEzNDIyNiwxNjc0ODc2NzMxXX0=
+eyJoaXN0b3J5IjpbLTk0MjE0NDY5OCwxNjc0ODc2NzMxXX0=
 -->
