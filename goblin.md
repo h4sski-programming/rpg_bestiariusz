@@ -6,7 +6,7 @@ Punkty Wytrzymałości | 7 (2k6)
 Szybkość | 9 m 
 
 
-SIŁ | ZRC | BWT | INT | MĄD | CHR
+SIŁ | ZRC | KOND  | INT | MĄD | CHR
 ---|---|---|---|---|---
 8 (-1) | 14 (+2) | 10 (+0) | 10 (+0) | 8 (-1) | 8 (-1)
 
@@ -24,7 +24,6 @@ Poziom Wyzwania | 1/4 (50 PD)
 ### Akcje
 
 **Szabla**. Atak bronią do walki wręcz: +4 do trafienia, zasięg 1,5 m, jeden cel. Trafienie: 5 (1k6 + 2) obrażeń ciętych. 
-
 **Krótki Łuk**. Atak bronią dystansową: +4 do trafienia, zasięg 24/97 m, jeden cel. Trafienie: 5 (1k6 + 2) obrażeń kłutych. 
 
 ----
@@ -37,7 +36,7 @@ Punkty Wytrzymałości | 21 (6k6)
 Szybkość | 9 m 
 
 
-SIŁ | ZRC | BWT | INT | MĄD | CHR
+SIŁ | ZRC | KOND | INT | MĄD | CHR
 ---|---|---|---|---|---
 10 (+0) | 14 (+2) | 10 (+0) | 10 (+0) | 8 (-1) | 10 (+0)
 
@@ -55,9 +54,7 @@ Poziom Wyzwania | 1 (200 PD)
 ### Akcje
 
 **Atak Wielokrotny**. Goblin wykonuje dwa ataki szablą. Drugi atak ma utrudnienie. 
-
 **Szabla**. Atak bronią do walki wręcz: +4 do trafienia, zasięg 1,5 m, jeden cel. Trafienie: 5 (1k6 + 2) obrażeń ciętych. 
-
 **Oszczep**. Atak bronią do walki wręcz lub dystansową: +4 do trafienia, zasięg 1,5 m lub 9/36 m, jeden cel. Trafienie: 5 (1k6 + 2) obrażeń kłutych. 
 
 
@@ -84,6 +81,6 @@ Gobliny to małe, czarnowłose, egoistyczne humanoidy, które gnieżdżą się w
 **Czciciele Maglubijeta.** Maglubijet Potężny, Pan Głębin i Ciemności, jest najwyższym bogiem goblinowatych. Większość goblinów wyobraża go sobie jako ogromnego, ponad trzymetrowego goblina o czarnej skórze, pokrytego bliznami bitewnymi, z oczami płonącymi ogniem. Nie czczą go z uwielbienia, lecz ze strachu. Gobliny wierzą, że gdy giną w walce, ich duchy dołączają do armii Maglubijeta na planie Acheronu. To „zaszczyt”, którego większość goblinów się lęka, obawiając się wiecznej tyranii Potężnego jeszcze bardziej niż samej śmierci.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODkwNDI5LDEwNTI5NzMwMTUsMTczMj
-QxNzk4NV19
+eyJoaXN0b3J5IjpbNjQzNzE3OTksMTgwODkwNDI5LDEwNTI5Nz
+MwMTUsMTczMjQxNzk4NV19
 -->
