@@ -55,7 +55,7 @@ Skills Stealth | +6
 --- | ---
 Senses | darkvision 60 ft., passive Perception 9 
 Languages | Common, Goblin 
-Challenge | 1/4 (50 XP) 
+Challenge | 1 (200 XP) 
 
 ----
 
@@ -66,10 +66,21 @@ action as a bonus action on each of its turns.
 
 ## Actions
 
+**Multiattack**. The goblin makes two attacks with its scimitar. 
+The second attack has disadvantage. 
+
 **Scimitar**. Melee Weapon Attack: +4 to hit, reach 5 ft., one 
 target. Hit: 5 (1d6 + 2) slashing damage. 
 
-**Shortbow**. Ranged Weapon Attack: +4 to hit, range 80f320 ft., one target. Hit: 5 (1d6 + 2) piercing damage. 
+**Javelin**. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or
+range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+
+## Reactions
+
+**Redirect Attack**. When a creature the goblin can see targets 
+it with an attack, the goblin chooses another goblin within 5 
+feet of it. The two goblins swap places, and the chosen goblin 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDk1NjgyOF19
+eyJoaXN0b3J5IjpbMTQ5OTE4NTIwMF19
 -->
