@@ -46,6 +46,8 @@ Poziom Wyzwania | 3 (700 PD)
 
 **Przewaga Bojowa.** Raz na turę hobgoblin może zadać dodatkowe 10 (3k6) obrażeń istocie, którą trafi atakiem bronią, jeśli ta istota znajduje się w odległości do 1,5 m od sojusznika hobgoblina, który nie jest obezwładniony.  
 
+### Akcje
+
 **Atak Wielokrotny.** Hobgoblin wykonuje dwa ataki wielkim mieczem.  
 
 **Wielki Miecz.** Atak bronią do walki wręcz: +4 do trafienia, zasięg 1,5 m, jeden cel. Trafienie: 9 (2k6 + 2) obrażeń kłutych.  
@@ -88,5 +90,5 @@ Hobgobliny umacniają własne siedziby, wzmacniając istniejące fortyfikacje w�
 **Legion Maglubijeta** Hobgobliny czczą Maglubijeta Potężnego — najwyższego boga goblinowatych. Choć ta istota budzi przerażenie, hobgobliny nie boją się śmierci, wierząc, że gdy zginą w walce, ich dusze dołączą do zaszczytnych szeregów armii Maglubijeta na planie Acheronu.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTE5ODQxMl19
+eyJoaXN0b3J5IjpbLTU0NTAyODk5OV19
 -->
