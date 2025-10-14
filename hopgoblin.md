@@ -60,6 +60,7 @@ Poziom Wyzwania | 3 (700 PD)
 
 **Dowodzenie (Ładowanie po krótkim lub długim odpoczynku).** Przez 1 minutę hobgoblin może wydać specjalne polecenie lub ostrzeżenie, gdy niehostylna istota, którą widzi w promieniu 9 m, wykonuje rzut ataku lub rzut obronny. Istota może dodać 1k4 do swojego rzutu, jeśli może usłyszeć i zrozumieć hobgoblina. Każda istota może korzystać tylko z jednej kości dowodzenia w tym samym czasie. Efekt kończy się, jeśli hobgoblin zostanie obezwładniony.  
 
+----
 
 
 # Opis rasy
@@ -90,5 +91,5 @@ Hobgobliny umacniają własne siedziby, wzmacniając istniejące fortyfikacje w�
 **Legion Maglubijeta** Hobgobliny czczą Maglubijeta Potężnego — najwyższego boga goblinowatych. Choć ta istota budzi przerażenie, hobgobliny nie boją się śmierci, wierząc, że gdy zginą w walce, ich dusze dołączą do zaszczytnych szeregów armii Maglubijeta na planie Acheronu.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTAyODk5OV19
+eyJoaXN0b3J5IjpbLTE0MDAxODM0NzddfQ==
 -->
