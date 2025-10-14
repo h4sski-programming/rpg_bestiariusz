@@ -6,7 +6,7 @@ Punkty Wytrzymałości | 11 (2k8 + 2)
 Szybkość | 9 m  
 
 
-SIŁA | ZRCZ | BWT | INT | MĄD | CHR  
+SIŁA | ZRCZ | KOND | INT | MĄD | CHR  
 ---|---|---|---|---|---
 13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 9 (-1)  
 
@@ -21,7 +21,6 @@ Poziom Wyzwania | 1/2 (100 PD)
 ### Akcje
 
 **Długi Miecz.** Atak bronią do walki wręcz: +3 do trafienia, zasięg 1,5 m, jeden cel. Trafienie: 5 (1k8 + 1) obrażeń ciętych lub 6 (1k10 + 1) obrażeń ciętych, jeśli używany oburącz.  
-
 **Długi Łuk.** Atak bronią dystansową: +3 do trafienia, zasięg 45/180 m, jeden cel. Trafienie: 5 (1k8 + 1) obrażeń kłutych.  
 
 ----
@@ -34,7 +33,7 @@ Punkty Wytrzymałości | 39 (6k8 + 12)
 Szybkość | 9 m  
 
 
-SIŁA | ZRCZ | BWT | INT | MĄD | CHR  
+SIŁA | ZRCZ | KOND | INT | MĄD | CHR  
 ---|---|---|---|---|---
 15 (+2) | 14 (+2) | 14 (+2) | 12 (+1) | 10 (+0) | 13 (+1)  
 
@@ -49,18 +48,14 @@ Poziom Wyzwania | 3 (700 PD)
 ### Akcje
 
 **Atak Wielokrotny.** Hobgoblin wykonuje dwa ataki wielkim mieczem.  
-
 **Wielki Miecz.** Atak bronią do walki wręcz: +4 do trafienia, zasięg 1,5 m, jeden cel. Trafienie: 9 (2k6 + 2) obrażeń kłutych.  
-
 **Oszczep.** Atak bronią do walki wręcz lub dystansową: +4 do trafienia, zasięg 1,5 m lub 9/36 m, jeden cel. Trafienie: 5 (1k6 + 2) obrażeń kłutych.  
 
----
 
 ### Akcje Specjalne
 
 **Dowodzenie (Ładowanie po krótkim lub długim odpoczynku).** Przez 1 minutę hobgoblin może wydać specjalne polecenie lub ostrzeżenie, gdy niehostylna istota, którą widzi w promieniu 9 m, wykonuje rzut ataku lub rzut obronny. Istota może dodać 1k4 do swojego rzutu, jeśli może usłyszeć i zrozumieć hobgoblina. Każda istota może korzystać tylko z jednej kości dowodzenia w tym samym czasie. Efekt kończy się, jeśli hobgoblin zostanie obezwładniony.  
 
-----
 
 
 # Opis rasy
@@ -91,5 +86,5 @@ Hobgobliny umacniają własne siedziby, wzmacniając istniejące fortyfikacje w�
 **Legion Maglubijeta** Hobgobliny czczą Maglubijeta Potężnego — najwyższego boga goblinowatych. Choć ta istota budzi przerażenie, hobgobliny nie boją się śmierci, wierząc, że gdy zginą w walce, ich dusze dołączą do zaszczytnych szeregów armii Maglubijeta na planie Acheronu.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk5ODUxMzM5XX0=
+eyJoaXN0b3J5IjpbMTcxOTQyNzAxMl19
 -->
