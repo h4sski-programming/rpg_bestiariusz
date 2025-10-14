@@ -28,6 +28,78 @@ Poziom Wyzwania | 1/2 (100 PD)
 **Długi Łuk.** Atak dystansowy: +3 do trafienia, zasięg 45/180 m, jeden cel. Trafienie: 5 (1k8 + 1) obrażeń kłutych.  
 
 
+# GNOLL WÓDZ STADA
+
+Średni humanoid (gnoll), chaotycznie zły  
+
+Klasa Pancerza | 15 (kolcza koszula)  
+---|---
+Punkty Wytrzymałości | 49 (9k8 + 9)  
+Szybkość | 9 m  
+
+
+SIŁA | ZRCZ | BWT | INT | MĄD | CHR  
+---|---|---|---|---|---
+16 (+3) | 14 (+2) | 13 (+1) | 8 (-1) | 11 (+0) | 9 (-1)  
+
+
+Zmysły | widzenie w ciemnościach 18 m, bierna Percepcja 10  
+--- | ---
+Języki | Gnoll  
+Poziom Wyzwania | 2 (450 PD)  
+
+
+**Szał.** Gdy gnoll redukuje istotę do 0 punktów życia atakiem w walce wręcz w swojej turze, może wykonać dodatkową akcję, poruszając się do połowy swojej prędkości i wykonując atak gryzieniem.  
+
+
+### Akcje
+
+**Atak Wielokrotny.** Gnoll wykonuje dwa ataki, używając włóczni lub długiego łuku, i aktywuje swoją zdolność Szału, jeśli jest to możliwe.  
+**Ugryzienie.** Atak bronią do walki wręcz: +5 do trafienia, zasięg 1,5 m, jedna istota. Trafienie: 5 (1k4 + 3) obrażeń kłutych.  
+**Włócznia.** Atak bronią do walki wręcz: +5 do trafienia, zasięg 3 m, jeden cel. Trafienie: 8 (1k10 + 3) obrażeń ciętych.  
+**Długi Łuk.** Atak dystansowy: +4 do trafienia, zasięg 45/180 m, jeden cel. Trafienie: 6 (1k8 + 2) obrażeń kłutych.  
+
+### Zdolności Specjalne
+
+**Podżeganie do Szału (Ładowanie 5–6).** Jedna istota, którą gnoll widzi w promieniu 9 m, może użyć swojej reakcji, aby wykonać atak wręcz, jeśli słyszy gnolla i posiada zdolność Szału.  
+
+
+# GNOLL KŁA YEENOGHU
+
+Średni diabeł (gnoll), chaotycznie zły  
+
+Klasa Pancerza | 14 (zbroja ze skóry)  
+---|---
+Punkty Wytrzymałości | 65 (10k8 + 20)  
+Szybkość | 9 m  
+
+----
+
+SIŁA | ZRCZ | BWT | INT | MĄD | CHR  
+---|---|---|---|---|---
+17 (+3) | 15 (+2) | 15 (+2) | 10 (+0) | 11 (+0) | 13 (+1)  
+
+----
+
+Rzuty Obronny | BWT +4, MĄD +2, CHR +3  
+Zmysły | widzenie w ciemnościach 18 m, bierna Percepcja 10  
+Języki | Abyssal, Gnoll  
+Poziom Wyzwania | 4 (1100 PD)  
+
+----
+
+**Szał.** Gdy gnoll redukuje istotę do 0 punktów życia atakiem w walce wręcz w swojej turze, może wykonać dodatkową akcję, poruszając się do połowy swojej prędkości i wykonując atak gryzieniem.  
+
+---
+
+### Akcje
+
+**Atak Wielokrotny.** Gnoll wykonuje trzy ataki: jeden gryzieniem i dwa pazurami.  
+
+**Ugryzienie.** Atak bronią do walki wręcz: +5 do trafienia, zasięg 1,5 m, jedna istota. Trafienie: 6 (1k6 + 3) obrażeń kłutych, a cel musi wykonać rzut obronny BWT DC 12 lub otrzymać dodatkowe 7 (2k6) obrażeń od trucizny.  
+
+**Pazur.** Atak bronią do walki wręcz: +5 do trafienia, zasięg 1,5 m, jeden cel. Trafienie: 7 (1k8 + 3) obrażeń ciętych.  
+
 
 
 # Opis rasy
@@ -54,5 +126,5 @@ Alfa stada gnolli to wódz stada, który rządzi siłą i sprytem. Wódz zdobywa
 Gnolle celebrują swoje zwycięstwa poprzez rytuały demoniczne i składanie ofiar krwi Yeenoghu. Czasami demon nagradza swoich wyznawców, pozwalając jednemu z nich zostać opętanym przez duchowego demona. Wybraniec, oznaczony jako ulubieniec Yeenoghu, staje się Kłem Yeenoghu — wybrańcem Władcy Gnolli. Podobnie jak Yeenoghu stworzył pierwsze gnolle, hiena, która pożera zabitego przez Kła przeciwnika, przechodzi przerażającą przemianę w dorosłego gnolla. W zależności od liczby hien w regionie, Kieł Yeenoghu może spowodować gwałtowny wzrost populacji gnolli. Jedynym sposobem na kontrolę populacji jest znalezienie i zabicie Kła.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODAyOTk0MywxNjc0ODc2NzMxXX0=
+eyJoaXN0b3J5IjpbLTExMzc2MzM3MDEsMTY3NDg3NjczMV19
 -->
