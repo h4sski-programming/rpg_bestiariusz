@@ -18,6 +18,16 @@ Choć hobgobliny są lojalne i zdyscyplinowane w obrębie własnego legionu, ryw
 **Strategiczni myśliciele.** Hobgobliny doskonale rozumieją taktykę i dyscyplinę, potrafiąc realizować złożone plany bitewne pod dowództwem strategicznie myślących liderów. Nienawidzą jednak elfów — w walce zawsze atakują ich jako pierwszych, nawet jeśli jest to błąd taktyczny.  
 Legiony często uzupełniają swoje szeregi mniej zaufanymi i bardziej jednorazowymi sojusznikami, takimi jak gobliny, bugbeary, orkowie, źli ludzie, ogry czy olbrzymy.  
 
+**Treserzy bestii** Hobgobliny mają długą tradycję tresowania zwierząt do służby. Podobnie jak bardziej cywilizowane rasy, używają wołów i koni do transportu towarów oraz uzbrojenia na duże odległości. Porozumiewają się ze sobą za pomocą wyszkolonych kruków i trzymają wściekłe wilki, które pilnują więźniów oraz strzegą obozów hobgoblinów. Kawaleria hobgoblińska dosiada wyszkolonych worgów — w ten sam sposób, w jaki gobliny jeżdżą na wilkach. Niektóre plemiona hodują nawet mięsożerne małpy jako bestie bojowe.  
+
+**Podbijaj i kontroluj** Hobgobliny zajmują tereny bogate w zasoby naturalne. Można je znaleźć w lasach i górach, w pobliżu kopalń, osad humanoidów oraz wszędzie tam, gdzie występuje drewno, metal lub potencjalni niewolnicy. Budują i zdobywają warownie w strategicznie korzystnych miejscach, które następnie wykorzystują jako bazy do dalszej ekspansji swojego terytorium.  
+
+Hobgoblińscy wodzowie nigdy nie mają dość walki, lecz nie sięgają po broń pochopnie. Przed rozpoczęciem ataku przeprowadzają dokładne rozpoznanie, by ocenić siły i słabości przeciwnika. Podczas oblężenia najpierw otaczają twierdzę, odcinając drogi ucieczki i linie zaopatrzenia, a następnie powoli zagładzają wrogów.  
+
+Hobgobliny umacniają własne siedziby, wzmacniając istniejące fortyfikacje własnymi wynalazkami. Niezależnie od tego, czy mieszkają w kompleksach jaskiń, lochach, ruinach czy lasach, chronią swoje warownie za pomocą rowów, palisad, bram, wież strażniczych, zapadni oraz prymitywnych katapult lub balist.  
+
+**Legion Maglubijeta** Hobgobliny czczą Maglubijeta Potężnego — najwyższego boga goblinowatych. Choć ta istota budzi przerażenie, hobgobliny nie boją się śmierci, wierząc, że gdy zginą w walce, ich dusze dołączą do zaszczytnych szeregów armii Maglubijeta na planie Acheronu.  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTgyOTgxMDldfQ==
+eyJoaXN0b3J5IjpbLTgxOTYyNTYxXX0=
 -->
