@@ -50,13 +50,18 @@ Zmysły | widzenie w ciemnościach 18 m, bierna Percepcja 11
 Języki | Wspólny, Gobliński  
 Poziom Wyzwania | 3 (700 PD)  
 
-----
 
 **Brutalny Atak.** Broń do walki wręcz zadaje jedną dodatkową kość obrażeń, gdy bugbear trafi nią przeciwnika (uwzględniono w ataku).  
-
-**Serce Hruggeka.** Bugbear ma przewagę przy rzutach obronnych przeciwko działaniu efektów, które mogą go zauroczyć, przestraszyć, sparaliżować, otruć, ogłuszyć lub uśpić.  
-
+**Serce Hruggeka.** Bugbear ma przewagę przy rzutach obronnych przeciwko działaniu efektów, które mogą go zauroczyć, przestraszyć, sparaliżować, otruć, ogłuszyć lub uśpić.
 **Atak z Zaskoczenia.** Jeśli bugbear zaskoczy istotę i trafi ją podczas pierwszej rundy walki, cel otrzymuje dodatkowe 7 (2k6) obrażeń z ataku.  
+
+
+
+### Akcje
+
+**Atak Wielokrotny.** Bugbear wykonuje dwa ataki bronią do walki wręcz.  
+**Morgenstern.** Atak bronią do walki wręcz: +4 do trafienia, zasięg 1,5 m, jeden cel. Trafienie: 11 (2k8 + 2) obrażeń kłutych.  
+**Oszczep.** Atak bronią do walki wręcz lub dystansową: +4 do trafienia, zasięg 1,5 m lub 9/36 m, jeden cel. Trafienie: 9 (2k6 + 2) obrażeń kłutych w walce wręcz lub 5 (1k6 + 2) obrażeń kłutych przy ataku dystansowym.  
 
 
 # Opis rasy
@@ -70,5 +75,5 @@ Bugbearzy rodzą się do walki i chaosu. Utrzymują się z grabieży i polowań,
 **Chciwi Zasadzkarze** Pomimo swoich potężnych postur bugbearzy poruszają się z zaskakującą ciszą. Uwielbiają zastawiać zasadzki i uciekają, gdy zostaną przeważeni. Są lojalnymi najemnikami, dopóki zapewnia im się jedzenie, napoje i skarby, lecz bugbear zapomina o wszelkich umowach, gdy jego życie jest zagrożone. Ranny członek bandy może zostać porzucony, by umożliwić innym ucieczkę. Później taki bugbear może nawet pomóc pościgowi w odnalezieniu swoich dawnych towarzyszy, jeśli pozwoli mu to ocalić własną skórę.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTE0NTk1NywtODY4ODc5OTkwXX0=
+eyJoaXN0b3J5IjpbMjA3NjU0ODAzNywtODY4ODc5OTkwXX0=
 -->
