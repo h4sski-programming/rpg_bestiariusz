@@ -12,6 +12,7 @@ SIŁA | ZRCZ | BWT | INT | MĄD | CHR
 
 
 Zmysły | widzenie w ciemnościach 18 m, bierna Percepcja 10  
+--- | ---
 Języki | Wspólny, Gobliński  
 Poziom Wyzwania | 1/2 (100 PD)  
 
@@ -22,6 +23,8 @@ Poziom Wyzwania | 1/2 (100 PD)
 **Długi Miecz.** Atak bronią do walki wręcz: +3 do trafienia, zasięg 1,5 m, jeden cel. Trafienie: 5 (1k8 + 1) obrażeń ciętych lub 6 (1k10 + 1) obrażeń ciętych, jeśli używany oburącz.  
 
 **Długi Łuk.** Atak bronią dystansową: +3 do trafienia, zasięg 45/180 m, jeden cel. Trafienie: 5 (1k8 + 1) obrażeń kłutych.  
+
+----
 
 
 
@@ -53,5 +56,5 @@ Hobgobliny umacniają własne siedziby, wzmacniając istniejące fortyfikacje w�
 **Legion Maglubijeta** Hobgobliny czczą Maglubijeta Potężnego — najwyższego boga goblinowatych. Choć ta istota budzi przerażenie, hobgobliny nie boją się śmierci, wierząc, że gdy zginą w walce, ich dusze dołączą do zaszczytnych szeregów armii Maglubijeta na planie Acheronu.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjg0Mjc5OTddfQ==
+eyJoaXN0b3J5IjpbMTAxNTQ3NzIzOV19
 -->
