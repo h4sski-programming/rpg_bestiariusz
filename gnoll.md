@@ -1,3 +1,5 @@
+# Gnoll
+
 
 
 # Opis rasy
@@ -24,5 +26,5 @@ Alfa stada gnolli to wódz stada, który rządzi siłą i sprytem. Wódz zdobywa
 Gnolle celebrują swoje zwycięstwa poprzez rytuały demoniczne i składanie ofiar krwi Yeenoghu. Czasami demon nagradza swoich wyznawców, pozwalając jednemu z nich zostać opętanym przez duchowego demona. Wybraniec, oznaczony jako ulubieniec Yeenoghu, staje się Kłem Yeenoghu — wybrańcem Władcy Gnolli. Podobnie jak Yeenoghu stworzył pierwsze gnolle, hiena, która pożera zabitego przez Kła przeciwnika, przechodzi przerażającą przemianę w dorosłego gnolla. W zależności od liczby hien w regionie, Kieł Yeenoghu może spowodować gwałtowny wzrost populacji gnolli. Jedynym sposobem na kontrolę populacji jest znalezienie i zabicie Kła.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDg3NjczMV19
+eyJoaXN0b3J5IjpbLTQ0ODEzNDIyNiwxNjc0ODc2NzMxXX0=
 -->
