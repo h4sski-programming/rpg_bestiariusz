@@ -39,6 +39,49 @@ Zdolnością rzucania czarów githyanki jest **Inteligencja**. Rzuca on czary wr
 *Trafienie:* 9 (2k6 + 2) obrażeń ciętych oraz 7 (2k6) obrażeń psychicznych.  
 
 
+# GITHYANKI RYCERZ
+
+Średni humanoid (gith), praworządny zły  
+
+**Klasa Pancerza** 18 (zbroja płytowa)  
+**Punkty Wytrzymałości** 91 (14k8 + 28)  
+**Szybkość** 9 m  
+
+---
+
+**SIŁA** | **ZRĘC** | **KON** | **INT** | **MĄD** | **CHR**  
+:--:|:--:|:--:|:--:|:--:|:--:  
+16 (+3) | 14 (+2) | 15 (+2) | 14 (+2) | 13 (+1) | —  
+
+---
+
+**Rzuty obronne** KON +5, INT +5, MĄD +5  
+**Zmysły** bierna Percepcja 12  
+**Języki** Gith  
+**Stopień Wyzwania** 8 (3 900 PD)  
+
+---
+
+### Wrodzone czary (Psionika)
+Zdolnością rzucania czarów githyanki jest **Inteligencja** (ST rzutu na czar 13, +5 do trafienia czarem). Rzuca czary wrodzone bez potrzeby używania komponentów:  
+
+**Do woli:** *mage hand* (ręka jest niewidzialna)  
+**3/dzień każdy:** *jump*, *misty step*, *nondetection* (tylko na siebie), *tongues*  
+**1/dzień każdy:** *plane shift*, *telekinesis*  
+
+---
+
+### AKCJE
+
+**Atak Wielokrotny.** Githyanki wykonuje dwa ataki srebrnym wielkim mieczem.  
+
+**Srebrny Wielki Miecz.** Atak bronią do walki wręcz: +9 do trafienia, zasięg 1,5 m, jeden cel.  
+*Trafienie:* 13 (2k6 + 6) obrażeń ciętych oraz 10 (3k6) obrażeń psychicznych. Jest to magiczny atak bronią.  
+
+Przy **trafieniu krytycznym** przeciwko celowi znajdującemu się w ciele astralnym (jak przy działaniu czaru *astral projection*), githyanki może **przeciąć srebrny sznur**, który łączy ciało astralne celu z jego ciałem materialnym, zamiast zadawać obrażenia.  
+
+
+
 
 
 # Opis rasy
@@ -96,5 +139,5 @@ Choć rzadko opuszczają swój plan, czasem inne rasy szukają ich klasztorów, 
 Pomimo swej wewnętrznej harmonii, githzerai nigdy nie zapomnieli o niewoli pod jarzmem illithidów. Dla uczczenia pamięci o wyzwoleniu organizują **rrakkmę** — wyprawy łowieckie przeciwko pożeraczom umysłów na innych planach, które kończą się dopiero, gdy zabiją tylu illithidów, ilu jest członków wyprawy.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNjc1NTQzNF19
+eyJoaXN0b3J5IjpbNDQ1MjY5NDI1XX0=
 -->
