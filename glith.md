@@ -81,7 +81,84 @@ Zdolnością rzucania czarów githyanki jest **Inteligencja** (ST rzutu na czar 
 Przy **trafieniu krytycznym** przeciwko celowi znajdującemu się w ciele astralnym (jak przy działaniu czaru *astral projection*), githyanki może **przeciąć srebrny sznur**, który łączy ciało astralne celu z jego ciałem materialnym, zamiast zadawać obrażenia.  
 
 
+# GITHZERAI MNICH
 
+Średni humanoid (gith), praworządny neutralny  
+
+**Klasa Pancerza** 14  
+**Punkty Wytrzymałości** 38 (7k8 + 7)  
+**Szybkość** 9 m  
+
+**SIŁA** | **ZRĘC** | **KON** | **INT** | **MĄD** | **CHR**  
+:--:|:--:|:--:|:--:|:--:|:--:  
+12 (+1) | 15 (+2) | 12 (+1) | 13 (+1) | 14 (+2) | 10 (+0)  
+
+**Rzuty obronne** SIŁ +3, ZRĘ +4, INT +3, MĄD +4  
+**Umiejętności** Wnikliwość +4, Percepcja +4  
+**Zmysły** bierna Percepcja 14  
+**Języki** Gith  
+**Stopień Wyzwania** 2 (450 PD)  
+
+
+### Wrodzone czary (Psionika)
+Zdolnością rzucania czarów githzerai jest **Mądrość**. Może wrodzenie rzucać następujące czary, nie wymagając komponentów:  
+
+**Do woli:** *mage hand* (ręka jest niewidzialna)  
+**3/dzień każdy:** *feather fall*, *jump*, *see invisibility*, *shield*  
+
+
+### Obrona Psychiczna
+Podczas gdy githzerai nie nosi zbroi ani nie dzierży tarczy, jego **KP** uwzględnia jego modyfikator z **Mądrości**.  
+
+
+### AKCJE
+
+**Atak Wielokrotny.** Githzerai wykonuje dwa ataki bez broni.  
+
+**Atak Bez Broni.** Atak bronią do walki wręcz: +4 do trafienia, zasięg 1,5 m, jeden cel.  
+*Trafienie:* 6 (1k8 + 2) obrażeń obuchowych oraz 9 (2k8) obrażeń psychicznych. Jest to magiczny atak bronią.  
+
+
+# GITHZERAI ZERTH
+
+Średni humanoid (gith), praworządny neutralny  
+
+**Klasa Pancerza** 17  
+**Punkty Wytrzymałości** 84 (13k8 + 26)  
+**Szybkość** 9 m  
+
+
+**SIŁA** | **ZRĘC** | **KON** | **INT** | **MĄD** | **CHR**  
+:--:|:--:|:--:|:--:|:--:|:--:  
+13 (+1) | 18 (+4) | 15 (+2) | 16 (+3) | 17 (+3) | 12 (+1)  
+
+
+**Rzuty obronne** SIŁ +4, ZRĘ +7, INT +6, MĄD +6  
+**Umiejętności** Arkanizm +6, Wnikliwość +6, Percepcja +6  
+**Zmysły** bierna Percepcja 16  
+**Języki** Gith  
+**Stopień Wyzwania** 6 (2 300 PD)  
+
+
+### Wrodzone czary (Psionika)
+Zdolnością rzucania czarów githzerai jest **Mądrość** (ST rzutu na czar 14, +6 do trafienia atakami czarów).  
+Może wrodzenie rzucać następujące czary, nie wymagając komponentów:  
+
+**Do woli:** *mage hand* (ręka jest niewidzialna)  
+**3/dzień każdy:** *feather fall*, *jump*, *see invisibility*, *shield*  
+**1/dzień każdy:** *phantasmal killer*, *plane shift*  
+
+
+### Obrona Psychiczna
+Podczas gdy githzerai nie nosi zbroi ani nie dzierży tarczy, jego **KP** uwzględnia jego modyfikator z **Mądrości**.  
+
+
+### AKCJE
+
+**Atak Wielokrotny.** Githzerai wykonuje dwa ataki bez broni.  
+
+**Atak Bez Broni.** Atak bronią do walki wręcz: +7 do trafienia, zasięg 1,5 m, jeden cel.  
+*Trafienie:* 11 (2k6 + 4) obrażeń obuchowych oraz 13 (3k8) obrażeń psychicznych. Jest to magiczny atak bronią.  
 
 
 # Opis rasy
@@ -139,5 +216,5 @@ Choć rzadko opuszczają swój plan, czasem inne rasy szukają ich klasztorów, 
 Pomimo swej wewnętrznej harmonii, githzerai nigdy nie zapomnieli o niewoli pod jarzmem illithidów. Dla uczczenia pamięci o wyzwoleniu organizują **rrakkmę** — wyprawy łowieckie przeciwko pożeraczom umysłów na innych planach, które kończą się dopiero, gdy zabiją tylu illithidów, ilu jest członków wyprawy.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1MjY5NDI1XX0=
+eyJoaXN0b3J5IjpbLTk3NDc1NTM4MF19
 -->
