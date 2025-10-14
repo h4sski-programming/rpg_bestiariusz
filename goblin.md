@@ -65,6 +65,25 @@ Poziom Wyzwania | 1 (200 PD)
 
 **Przekierowanie Ataku**. Gdy istota, którą goblin widzi, celuje w niego atakiem, goblin wybiera innego goblina w odległości do 1,5 m od siebie. Oba gobliny zamieniają się miejscami, a wybrany goblin staje się celem ataku.
 
+----
+
+# Opis rasy
+
+Gobliny to małe, czarnowłose, egoistyczne humanoidy, które gnieżdżą się w jaskiniach, opuszczonych kopalniach, splądrowanych lochach i innych ponurych miejscach. Choć pojedynczo są słabe, gobliny gromadzą się w dużych — czasem przytłaczających — grupach. Pragną władzy i często nadużywają każdego autorytetu, jaki uda im się zdobyć.  
+
+**Goblinowate.** Gobliny należą do rodziny stworzeń zwanych goblinowatymi. Ich więksi kuzyni — hobgobliny i bugbeary — lubią znęcać się nad goblinami i zmuszać je do uległości. Gobliny są leniwe i niezdyscyplinowane, co czyni je kiepskimi sługami, robotnikami i strażnikami.  
+
+**Złośliwa radość.** Kierowane chciwością i złośliwością, gobliny nie potrafią się powstrzymać przed świętowaniem każdej, nawet najmniejszej przewagi. Tańczą i podskakują z czystej radości, gdy odniosą zwycięstwo. Gdy ich hulanki się kończą, czerpią przyjemność z dręczenia innych istot i oddają się wszelkim przejawom nikczemności.  
+
+**Przywódcy i poddani.** Goblinami rządzi najsilniejszy lub najinteligentniejszy z nich. Gobliński przywódca może dowodzić pojedynczą kryjówką, podczas gdy gobliński król lub królowa (czyli w praktyce bardziej „wywyższony” przywódca) włada setkami goblinów rozsianych po wielu kryjówkach, aby zapewnić przetrwanie plemienia. Goblińscy przywódcy są łatwo obalani, a wiele plemion przejmują wojowniczy hobgobliny lub wodzowie bugbearów.  
+
+**Niebezpieczne kryjówki.** Gobliny ozdabiają swoje kryjówki alarmami zaprojektowanymi tak, by ostrzegały przed nadejściem intruzów. Kryjówki te pełne są też wąskich tuneli i przejść, którymi ludzie nie są w stanie się poruszać, lecz przez które gobliny mogą łatwo się przeczołgać, by uciec lub zaskoczyć wroga od tyłu.  
+
+**Pogromcy szczurów i wilczi jeźdźcy.** Gobliny mają szczególne upodobanie do szczurów i wilków, hodując je odpowiednio jako towarzyszy i wierzchowce. Jak szczury, unikają światła słonecznego i śpią pod ziemią w ciągu dnia. Jak wilki, polują w stadach, a liczebność dodaje im odwagi. Podczas jazdy na wilkach gobliny stosują taktykę szybkich, uderzających i wycofujących się ataków.  
+
+**Czciciele Maglubijeta.** Maglubijet Potężny, Pan Głębin i Ciemności, jest najwyższym bogiem goblinowatych. Większość goblinów wyobraża go sobie jako ogromnego, ponad trzymetrowego goblina o czarnej skórze, pokrytego bliznami bitewnymi, z oczami płonącymi ogniem. Nie czczą go z uwielbienia, lecz ze strachu. Gobliny wierzą, że gdy giną w walce, ich duchy dołączają do armii Maglubijeta na planie Acheronu. To „zaszczyt”, którego większość goblinów się lęka, obawiając się wiecznej tyranii Potężnego jeszcze bardziej niż samej śmierci.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1Mjk3MzAxNSwxNzMyNDE3OTg1XX0=
+eyJoaXN0b3J5IjpbMTgwODkwNDI5LDEwNTI5NzMwMTUsMTczMj
+QxNzk4NV19
 -->
