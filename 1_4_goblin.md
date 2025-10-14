@@ -40,14 +40,14 @@ target. Hit: 5 (1d6 + 2) slashing damage.
 
 Armor Class | 17 (leather armor, shield) 
 ---| ---
-Hit Points | 7 (2d6) 
+Hit Points | 21 (6d6) 
 Speed | 30ft. 
 
 ----
 
 STR | DEX | CON | INT | WIS | CHA
 ---|---|---|---|---|---
-8 (- 1) | 14 (+2) | 10 (+0) | 10 (+0) |8 (- 1) |8 (-1)
+10 (+0) | 14 (+2) | 10 (+0) | 10 (+0) | 8 (-1) | 10 (+0)
 
 ----
 
@@ -71,5 +71,5 @@ target. Hit: 5 (1d6 + 2) slashing damage.
 
 **Shortbow**. Ranged Weapon Attack: +4 to hit, range 80f320 ft., one target. Hit: 5 (1d6 + 2) piercing damage. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTI0ODk5NTBdfQ==
+eyJoaXN0b3J5IjpbLTU2NDk1NjgyOF19
 -->
