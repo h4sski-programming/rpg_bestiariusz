@@ -1,3 +1,27 @@
+# Hopgoblin
+
+Klasa Pancerza | 18 (kolczuga, tarcza)  
+---|---
+Punkty Wytrzymałości | 11 (2k8 + 2)  
+Szybkość | 9 m  
+
+
+SIŁA | ZRCZ | BWT | INT | MĄD | CHR  
+---|---|---|---|---|---
+13 (+1) | 12 (+1) | 12 (+1) | 10 (+0) | 10 (+0) | 9 (-1)  
+
+
+Zmysły | widzenie w ciemnościach 18 m, bierna Percepcja 10  
+Języki | Wspólny, Gobliński  
+Poziom Wyzwania | 1/2 (100 PD)  
+
+**Przewaga Bojowa.** Raz na turę hobgoblin może zadać dodatkowe 7 (2k6) obrażeń istocie, którą trafi atakiem bronią, jeśli ta istota znajduje się w odległości do 1,5 m od sojusznika hobgoblina, który nie jest obezwładniony.  
+
+### Akcje
+
+**Długi Miecz.** Atak bronią do walki wręcz: +3 do trafienia, zasięg 1,5 m, jeden cel. Trafienie: 5 (1k8 + 1) obrażeń ciętych lub 6 (1k10 + 1) obrażeń ciętych, jeśli używany oburącz.  
+
+**Długi Łuk.** Atak bronią dystansową: +3 do trafienia, zasięg 45/180 m, jeden cel. Trafienie: 5 (1k8 + 1) obrażeń kłutych.  
 
 
 
@@ -29,5 +53,5 @@ Hobgobliny umacniają własne siedziby, wzmacniając istniejące fortyfikacje w�
 **Legion Maglubijeta** Hobgobliny czczą Maglubijeta Potężnego — najwyższego boga goblinowatych. Choć ta istota budzi przerażenie, hobgobliny nie boją się śmierci, wierząc, że gdy zginą w walce, ich dusze dołączą do zaszczytnych szeregów armii Maglubijeta na planie Acheronu.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxOTYyNTYxXX0=
+eyJoaXN0b3J5IjpbLTIwMjg0Mjc5OTddfQ==
 -->
