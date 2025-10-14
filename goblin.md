@@ -48,7 +48,7 @@ SIŁ | ZRC | BWT | INT | MĄD | CHR
 
 ----
 
-Umiejętności Skrytość | +6 
+Umiejętności | Skrytość +6 
 ---|---
 Zmysły | widzenie w ciemnościach 18 m, bierna Percepcja 9 
 Języki | Wspólny, Gobliński 
@@ -68,10 +68,12 @@ Poziom Wyzwania | 1 (200 PD)
 
 **Oszczep**. Atak bronią do walki wręcz lub dystansową: +4 do trafienia, zasięg 1,5 m lub 9/36 m, jeden cel. Trafienie: 5 (1k6 + 2) obrażeń kłutych. 
 
+----
+
 ### Reakcje
 
 **Przekierowanie Ataku**. Gdy istota, którą goblin widzi, celuje w niego atakiem, goblin wybiera innego goblina w odległości do 1,5 m od siebie. Oba gobliny zamieniają się miejscami, a wybrany goblin staje się celem ataku.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNjcyMTkyMywxNzMyNDE3OTg1XX0=
+eyJoaXN0b3J5IjpbLTUyMDU2MzAzMSwxNzMyNDE3OTg1XX0=
 -->
